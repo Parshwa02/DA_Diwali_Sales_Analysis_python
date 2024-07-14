@@ -5,3 +5,7 @@ This is a project of doing data analysis on a diwali sales dataset using python.
 >>>>> Here 'Diwali_Sales_Data.csv' is dataset for this project. This dataset is already cleaned and updated dataset using python.
 
 >>>>> And 'Diwali_Sales_Analysis.ipynb' is a jupyter notebook file for pyhon. It contains all the python code for this project.
+
+>>>>> Here 'Diwali_sales_analysis.pdf' is a pdf containing the final presentation data including EDA and Insights for this project.
+
+>>>>> And 'Diwali_sales_analysis.pptx' is a ppt version of the same but it is made on online mode of microsoft presentation so there can be some problem if you open in another software.
