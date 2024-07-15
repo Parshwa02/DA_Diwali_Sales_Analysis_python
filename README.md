@@ -11,3 +11,7 @@ This is a project of doing data analysis on a diwali sales dataset using python.
 >>>>> Here 'Diwali_sales_analysis.pdf' is a pdf containing the final presentation data including EDA and Insights for this project.
 
 >>>>> And 'Diwali_sales_analysis.pptx' is a ppt version of the same but it is made on online mode of microsoft presentation so there can be some problem if you open in another software.
+
+>>>>> 'Diwali_sales_Analysis_dashboard.pbix' is a POWER BI Dashboard for this project.
+
+>>>>> 'Diwali_sales_Analysis_dashboard.pdf' is a pdf formate of Dashboard.
